@@ -11,7 +11,7 @@
 
 <br />
 
-<div>
+<div align="center">
 
   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div> 
