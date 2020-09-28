@@ -46,6 +46,7 @@
 ### Unofficial Resources
 #### Tutorials & Projects
 - [Voting App](https://medium.com/@smith_10562/a-simple-solana-dapp-tutorial-6dedbdf65444)
+- [Solana Discord SOL bot](https://github.com/paul-schaaf/solbot)
 
 ## Projects building on Solana
 ### Wallets
