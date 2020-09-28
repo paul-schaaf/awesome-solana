@@ -6,7 +6,12 @@
 
 <div align="center">
   <strong>A curated (unofficial) list of awesome things for people looking to buidl on Solana</strong>
-  <br/>
+  
+</div>
+
+<br />
+
+<div>
 
   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div> 
