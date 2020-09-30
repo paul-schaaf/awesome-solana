@@ -51,6 +51,7 @@
 ## Projects building on Solana
 ### Wallets
 - [Sollet.io](https://github.com/project-serum/spl-token-wallet)
+- [Solflare](https://solflare.com/)
 ### Exchanges
 - [Project Serum](https://projectserum.com/)
 ### Stablecoins
