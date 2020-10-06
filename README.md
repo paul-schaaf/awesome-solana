@@ -38,6 +38,7 @@
 - [Chorus One Podcast Ep. 16](https://www.stitcher.com/podcast/chorus-one-podcast/e/64417309?autoplay=false)
 - [Block Zero Ep. 8](https://www.stitcher.com/podcast/kevin-rose/block-zero/e/55678668)
 - [The Bitcoin Podcast Network - Hashing it out Ep. 61](https://www.stitcher.com/podcast/the-bitcoin-podcast/e/64176232)
+- [Unchained Podcast - October 6, 2020](https://unchainedpodcast.com/can-solana-seize-marketshare-from-ethereum-with-serum/)
 
 #### Tutorials & Projects
 - [Break Solana](https://github.com/solana-labs/break)
