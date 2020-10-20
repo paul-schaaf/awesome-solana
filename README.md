@@ -47,6 +47,7 @@
 
 ### Unofficial Resources
 #### Tutorials & Projects
+- [SPL Token UI](https://spl-token-ui.netlify.app/)
 - [Voting App](https://medium.com/@smith_10562/a-simple-solana-dapp-tutorial-6dedbdf65444)
 - [Solana Discord SOL bot](https://github.com/paul-schaaf/solbot)
 
