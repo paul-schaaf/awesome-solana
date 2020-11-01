@@ -66,3 +66,5 @@
 - [Stardust](https://www.stardust.gg/)
 ### Social Media
 - [Kin](https://www.kin.org/)
+### Music
+- [Audius](https://audius.co/)
