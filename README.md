@@ -46,6 +46,11 @@
 - [Hello World](https://github.com/solana-labs/example-helloworld)
 
 ### Unofficial Resources
+
+#### Developer Tooling
+- [SPL Token UI](https://spl-token-ui.netlify.app/) for general token management on all clusters
+- [Sollet.io](https://sollet.io) allows you to request airdops and mint test tokens where allowed
+
 #### Tutorials & Projects
 - [SPL Token UI](https://spl-token-ui.netlify.app/)
 - [Voting App](https://medium.com/@smith_10562/a-simple-solana-dapp-tutorial-6dedbdf65444)
