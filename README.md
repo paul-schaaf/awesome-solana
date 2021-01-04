@@ -44,17 +44,22 @@
 #### Tutorials & Projects
 - [Break Solana](https://github.com/solana-labs/break)
 - [Hello World](https://github.com/solana-labs/example-helloworld)
+- [Token Swap (Advanced)](https://github.com/solana-labs/solana-program-library/tree/master/token-swap)
 
 ### Unofficial Resources
 
 #### Developer Tooling
-- [SPL Token UI](https://spl-token-ui.netlify.app/) for general token management on all clusters
+- [SPL Token UI](https://spl-token-ui.com) for general token management on all clusters
 - [Sollet.io](https://sollet.io) allows you to request airdops and mint test tokens where allowed
 
+#### Libraries
+- [SolanaJ](https://github.com/p2p-org/solanaj)
+- [Solana Python](https://pypi.org/project/solana/)
+
 #### Tutorials & Projects
-- [SPL Token UI](https://spl-token-ui.netlify.app/)
 - [Voting App](https://medium.com/@smith_10562/a-simple-solana-dapp-tutorial-6dedbdf65444)
-- [Solana Discord SOL bot](https://github.com/paul-schaaf/solbot)
+- [Solana File Upload](https://github.com/mcf-rocks/solana-upload)
+- [SPL Token UI Repo](https://github.com/paul-schaaf/spl-token-ui)
 
 ## Projects building on Solana
 ### Wallets
@@ -64,12 +69,14 @@
 - [Project Serum](https://projectserum.com/)
 ### Bridges
 - [Wormhole | ERC-20 <-> SPL Token](https://github.com/certusone/wormhole)
+- [SolarWeave Bridge | ArWeave <-> Solana](https://github.com/TheLoneRonin/SolarweaveBridge)
 ### Stablecoins
 - [Tether](https://tether.to/)
 - [Terra](https://terra.money/)
 ### Gaming
 - [Stardust](https://www.stardust.gg/)
-### Social Media
+### Social Media | Communication
 - [Kin](https://www.kin.org/)
+- [Zoolana](https://www.zoolana.com)
 ### Music
 - [Audius](https://audius.co/)
