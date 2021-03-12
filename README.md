@@ -36,7 +36,6 @@
 - [The Blockchain Debate Podcast Ep. 12](https://www.buzzsprout.com/767033/4648859-motion-scalability-is-impossible-without-sharding-and-layer-2-solutions-georgios-konstantopoulos-vs-anatoly-yakovenko-cohost-tarun-chitra)
 - [The FTX Podcast](https://youtu.be/y5RYRVeN-C4)
 - [Chorus One Podcast Ep. 16](https://www.stitcher.com/podcast/chorus-one-podcast/e/64417309?autoplay=false)
-- [Block Zero Ep. 8](https://www.stitcher.com/podcast/kevin-rose/block-zero/e/55678668)
 - [The Bitcoin Podcast Network - Hashing it out Ep. 61](https://www.stitcher.com/podcast/the-bitcoin-podcast/e/64176232)
 - [Unchained Podcast - October 6, 2020](https://unchainedpodcast.com/can-solana-seize-marketshare-from-ethereum-with-serum/)
 - [The Erica Show Ep. 5](https://youtu.be/wYCZBG9JXVk)
@@ -57,7 +56,7 @@
 - [Solana Python](https://pypi.org/project/solana/)
 
 #### Tutorials & Projects
-- [Programming on Solana - An Introduction](https://paulx.dev/2021/01/14/programming-on-solana-an-introduction/)
+- [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 - [Voting App](https://medium.com/@smith_10562/a-simple-solana-dapp-tutorial-6dedbdf65444)
 - [Solana File Upload](https://github.com/mcf-rocks/solana-upload)
 - [SPL Token UI Repo](https://github.com/paul-schaaf/spl-token-ui)
