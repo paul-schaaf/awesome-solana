@@ -57,7 +57,7 @@
 - [Solana Python](https://pypi.org/project/solana/)
 
 #### Tutorials & Projects
-- [Programming on Solana - An Introduction](https://paulx.dev/2021/01/14/programming-on-solana-an-introduction/)
+- [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 - [Voting App](https://medium.com/@smith_10562/a-simple-solana-dapp-tutorial-6dedbdf65444)
 - [Solana File Upload](https://github.com/mcf-rocks/solana-upload)
 - [SPL Token UI Repo](https://github.com/paul-schaaf/spl-token-ui)
