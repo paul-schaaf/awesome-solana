@@ -54,6 +54,7 @@
 #### Libraries
 - [SolanaJ](https://github.com/p2p-org/solanaj)
 - [Solana Python](https://pypi.org/project/solana/)
+- [Solana Dart Flutter](https://github.com/cryptoplease/dart-solana-lib)
 
 #### Tutorials & Projects
 - [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
