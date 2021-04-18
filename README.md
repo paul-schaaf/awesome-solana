@@ -15,6 +15,28 @@
   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div> 
 
+Table of Contents
+=================
+
+   * [awesome-solana](#awesome-solana)
+      * [Unofficial Network Stats](#unofficial-network-stats)
+      * [Resources](#resources)
+         * [Official Resources](#official-resources)
+            * [Podcast appearances](#podcast-appearances)
+            * [Tutorials &amp; Projects](#tutorials--projects)
+         * [Unofficial Resources](#unofficial-resources)
+            * [Developer Tooling](#developer-tooling)
+            * [Libraries](#libraries)
+            * [Tutorials &amp; Projects](#tutorials--projects-1)
+      * [Projects building on Solana](#projects-building-on-solana)
+         * [Wallets](#wallets)
+         * [Exchanges](#exchanges)
+         * [Bridges](#bridges)
+         * [Stablecoins](#stablecoins)
+         * [Gaming](#gaming)
+         * [Social Media | Communication](#social-media--communication)
+         * [Music](#music)
+
 ## Unofficial Network Stats
 - [Solana Beach](https://solanabeach.io/)
 - [Validators.app](https://www.validators.app/)
