@@ -29,13 +29,6 @@ Table of Contents
             * [Libraries](#libraries)
             * [Tutorials &amp; Projects](#tutorials--projects-1)
       * [Projects building on Solana](#projects-building-on-solana)
-         * [Wallets](#wallets)
-         * [Exchanges](#exchanges)
-         * [Bridges](#bridges)
-         * [Stablecoins](#stablecoins)
-         * [Gaming](#gaming)
-         * [Social Media | Communication](#social-media--communication)
-         * [Music](#music)
 
 ## Unofficial Network Stats
 - [Solana Beach](https://solanabeach.io/)
@@ -85,21 +78,4 @@ Table of Contents
 - [SPL Token UI Repo](https://github.com/paul-schaaf/spl-token-ui)
 
 ## Projects building on Solana
-### Wallets
-- [Sollet.io](https://github.com/project-serum/spl-token-wallet)
-- [Solflare](https://solflare.com/)
-### Exchanges
-- [Project Serum](https://projectserum.com/)
-### Bridges
-- [Wormhole | ERC-20 <-> SPL Token](https://github.com/certusone/wormhole)
-- [SolarWeave Bridge | ArWeave <-> Solana](https://github.com/TheLoneRonin/SolarweaveBridge)
-### Stablecoins
-- [Tether](https://tether.to/)
-- [Terra](https://terra.money/)
-### Gaming
-- [Stardust](https://www.stardust.gg/)
-### Social Media | Communication
-- [Kin](https://www.kin.org/)
-- [Zoolana](https://www.zoolana.com)
-### Music
-- [Audius](https://audius.co/)
+see [solana.com/ecosystem](https://www.solana.com/ecosystem)
