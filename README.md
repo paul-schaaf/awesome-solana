@@ -66,7 +66,8 @@ Table of Contents
 - [SPL Token UI](https://spl-token-ui.com) for general token management on all clusters
 - [Sollet.io](https://sollet.io) allows you to request airdops and mint test tokens where allowed
 
-#### Libraries
+#### Libraries & Frameworks
+- [Anchor](https://github.com/project-serum/anchor)
 - [SolanaJ](https://github.com/p2p-org/solanaj)
 - [Solana Python](https://pypi.org/project/solana/)
 - [Solana Dart Flutter](https://github.com/cryptoplease/dart-solana-lib)
