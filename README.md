@@ -69,6 +69,7 @@ Table of Contents
 #### Libraries & Frameworks
 - [Anchor](https://github.com/project-serum/anchor)
 - [SolanaJ](https://github.com/p2p-org/solanaj)
+- [Solnet](https://github.com/bmresearch/Solnet)
 - [Solana Python](https://pypi.org/project/solana/)
 - [Solana Dart Flutter](https://github.com/cryptoplease/dart-solana-lib)
 - [Solana Swift](https://github.com/ajamaica/Solana.Swift/pulls)
