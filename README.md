@@ -72,8 +72,8 @@ Table of Contents
 - [Solnet](https://github.com/bmresearch/Solnet)
 - [Solana Python](https://pypi.org/project/solana/)
 - [Solana Dart Flutter](https://github.com/cryptoplease/dart-solana-lib)
-- [Solana Swift](https://github.com/ajamaica/Solana.Swift/pulls)
-- [Solana Kotlin](https://github.com/ajamaica/Solana.kt/pulls)
+- [Solana Swift](https://github.com/ajamaica/Solana.Swift)
+- [Solana Kotlin](https://github.com/ajamaica/Solana.kt)
 
 #### Tutorials & Projects
 - [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
