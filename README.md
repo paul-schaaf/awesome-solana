@@ -33,6 +33,7 @@ Table of Contents
 ## Unofficial Network Stats
 - [Solana Beach](https://solanabeach.io/)
 - [Validators.app](https://www.validators.app/)
+- [Soldev - Developer community](https://soldev.app/)
 
 ## Resources
 
