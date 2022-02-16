@@ -87,7 +87,6 @@ Table of Contents
 - [Saber](https://github.com/saber-hq)
 - [Bonfida](https://github.com/Bonfida)
 - [TribecaDAO](https://github.com/TribecaHQ)
-`
 
 ## Projects building on Solana
 see [solana.com/ecosystem](https://www.solana.com/ecosystem)
