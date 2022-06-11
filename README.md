@@ -6,14 +6,14 @@
 
 <div align="center">
   <strong>A curated (unofficial) list of awesome things for people looking to buidl on Solana</strong>
-  
+
   Please submit a pull request if you know any resources that might be helpful to other developers!
 </div>
 
 <div align="center">
-  
+
   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-</div> 
+</div>
 
 Table of Contents
 =================
@@ -24,6 +24,7 @@ Table of Contents
          * [Official Resources](#official-resources)
             * [Podcast appearances](#podcast-appearances)
             * [Tutorials &amp; Projects](#tutorials--projects)
+            * [Course](#course)
          * [Unofficial Resources](#unofficial-resources)
             * [Developer Tooling](#developer-tooling)
             * [Libraries](#libraries)
@@ -59,6 +60,9 @@ Table of Contents
 - [Break Solana](https://github.com/solana-labs/break)
 - [Hello World](https://github.com/solana-labs/example-helloworld)
 - [Token Swap (Advanced)](https://github.com/solana-labs/solana-program-library/tree/master/token-swap)
+
+#### Course
+- [Solana Development Course](https://github.com/Unboxed-Software/solana-course)
 
 ### Unofficial Resources
 
